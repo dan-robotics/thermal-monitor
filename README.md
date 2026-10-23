@@ -142,6 +142,10 @@ tools/make-icon.swift        draws the app icon
 build.sh                     builds the .app + DMG
 ```
 
+## Credits
+
+Built with [Claude Code](https://claude.com/claude-code).
+
 ## License
 
 [MIT](LICENSE) © 2026 Daniel Andries
